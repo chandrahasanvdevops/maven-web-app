@@ -4,9 +4,9 @@
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : + 9985396677</h2>
+  <h2> Call Us : + 9019524212</h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad, Telangana - 500032</h3>
+  <h3> Ofc Location : 28-188, Penugonda, WG Dist, AP-534320</h3>
 
 </body>
 </html>
